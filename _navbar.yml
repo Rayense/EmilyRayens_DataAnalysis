@@ -1,0 +1,13 @@
+title: "Data Analysis Exercise Website"
+type: inverse
+left:
+  - text: "Analyses"
+    menu:
+      - text: "Continuous Outcome Analysis"
+        href: ./Continuous_Outcome_Analysis.html
+      - text: "Future Analysis"
+  - text: "About the Author"
+    href: ./Author.html
+right:
+  - icon: fa-github fa-lg
+    href: URL-TO-THIS-REPOSITORY-HERE

@@ -1,0 +1,12 @@
+---
+title: "Simple Analysis Exercise Website"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+This is a demo website to illustrate how one can build simple websites using RMarkdown and Github.
+
+This website contains the solution to the _Simple Analysis Exercise_.
+
+Click on the menu links above to see the analysis results and to learn more about me.
